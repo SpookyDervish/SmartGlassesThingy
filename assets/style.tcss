@@ -1,0 +1,21 @@
+Banner {
+    max-height: 3;
+}
+
+ChatBox {
+    align: center middle;
+}
+
+#main {
+    border: vkey blue;
+    width: 60%;
+    background: $boost;
+    padding: 1;
+    content-align: left top;
+    height: 75%;
+}
+
+#notes-list {
+    dock: left;
+    max-width: 25%;
+}
